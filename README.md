@@ -57,7 +57,7 @@ Tuku is an online buying and selling web application that makes it easy to use t
 1. Clone the repository.
 
 ```
-$ git clone https://github.com/chaerulmarwan20/tuku-frontend.git
+$ git clone https://github.com/ErwinSaputraSulistio/Blanja-BE.git
 ```
 
 2. Open this project.
@@ -99,7 +99,7 @@ $ npm start
 
 ## Link
 
-- :white_check_mark: [`Backend Tuku`](https://github.com/chaerulmarwan20/tuku-backend)
+- :white_check_mark: [`Backend Tuku`](https://github.com/ErwinSaputraSulistio/Blanja-BE)
 - :rocket: [`Publication`](https://tukupedia.netlify.app/)
 
 ## Authors

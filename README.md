@@ -57,7 +57,7 @@ Tuku is an online buying and selling web application that makes it easy to use t
 1. Clone the repository.
 
 ```
-$ git clone https://github.com/ErwinSaputraSulistio/Blanja-BE.git
+$ git clone https://github.com/ErwinSaputraSulistio/Blanja-FE.git
 ```
 
 2. Open this project.
